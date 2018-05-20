@@ -24,6 +24,7 @@ public class Card {
             throw new IllegalArgumentException("Illegal card suit");
         }
 
+
         this.value = theValue;
         this.suit = theSuit;
     }

@@ -4,4 +4,5 @@
 - talia kart
 - tasowanie kart
 - zawsze 3 graczy
+- rozdawanie kart
 -

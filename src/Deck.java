@@ -1,5 +1,6 @@
 public class Deck {
     private Card[] deck;
+
     private int cardsUsed;
 
     public void buildDeck(){
